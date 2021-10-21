@@ -32,3 +32,5 @@ DataCollection.LANDSAT_OT_L2
 
 Cloud mask from the `BQA` band (= Quality Assessment band). Use [decodeL8C2Qa](https://docs.sentinel-hub.com/api/latest/evalscript/functions/#decodel8c2qa) function to get values.
 
+[https://www.sentinel-hub.com/faq/how-can-i-access-data-landsat-8-quality-assessment-band/](https://www.sentinel-hub.com/faq/how-can-i-access-data-landsat-8-quality-assessment-band/)
+
