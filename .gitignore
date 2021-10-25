@@ -1,6 +1,6 @@
 # Here add user folders to be ignored
-./userfiles/
-./downloaded
+userfiles/
+downloaded/
 
 # Jupyter Notebook
 .ipynb_checkpoints
