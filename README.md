@@ -1,9 +1,9 @@
 # shub_cloudless
  Sentinel Hub configuration for downloading cloudless images from selcted extents in a selected time frame
  
- > *PROBLEM:* with accessing server for Landsat data.
+ > **PROBLEM:** accessing server for Landsat data (token not found).
  > 
- > *SOLUTION:* Install `sentinelhub` package using pip, anaconda does not have the latest version!
+ > **SOLUTION:** Install `sentinelhub` package using pip, anaconda does not have the latest version!
 
 
 ## Data Collections
