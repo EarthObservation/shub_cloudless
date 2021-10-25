@@ -1,5 +1,9 @@
 # shub_cloudless
  Sentinel Hub configuration for downloading cloudless images from selcted extents in a selected time frame
+ 
+ > *PROBLEM:* with accessing server for Landsat data.
+ > 
+ > *SOLUTION:* Install `sentinelhub` package using pip, anaconda does not have the latest version!
 
 
 ## Data Collections
@@ -34,3 +38,4 @@ Cloud mask from the `BQA` band (= Quality Assessment band). Use [decodeL8C2Qa](h
 
 [https://www.sentinel-hub.com/faq/how-can-i-access-data-landsat-8-quality-assessment-band/](https://www.sentinel-hub.com/faq/how-can-i-access-data-landsat-8-quality-assessment-band/)
 
+(Custom script: Č8 cloud segmentation)[https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/clouds_segmentation]
